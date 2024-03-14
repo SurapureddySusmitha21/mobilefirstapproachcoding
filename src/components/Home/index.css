@@ -1,0 +1,24 @@
+.button{
+    background-color: #259CEF;
+    padding:5px;
+    border-radius:5px;
+    margin: 10px;
+    width:50%;
+    font-size:17px;
+    color:#ffffff;
+    }
+    .gap{
+        margin: 10px;
+    
+    }
+    .table{
+        border-collapse: separate;
+        border-spacing: 0 10px;
+    }
+    .th{
+        border: 1px solid black;
+        padding: 8px;
+    }
+    .heading{
+        text-decoration: underline;
+    }
